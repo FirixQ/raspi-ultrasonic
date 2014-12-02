@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # This Code is based off of ultrasonic_2.py by Matt Hawkins
 # Original code here: https://bitbucket.org/MattHawkinsUK/rpispy-misc/raw/master/python/ultrasonic_2.py
+# This code has been edited by us and will eventually (hopefully) be re-written from scratch
 
 # -----------------------
 # Import required Python libraries
